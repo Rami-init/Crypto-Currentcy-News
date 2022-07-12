@@ -34,7 +34,7 @@
 
  Currency News is a beautiful website designed for crypto currency news and exchange coins.\
  Crypto Currency have good charts for crypto currency.\
- you can go live! [ramicrypto.netlify.app](https://ramicrypto.netlify.app/)
+ you can go live! [ramicrypto.netlify.app](https://ramicrypto.netlify.app/).\
  responsive for mobile app.
 
 ## `Frontend`
